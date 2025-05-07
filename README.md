@@ -9,7 +9,7 @@
 - 🔭 I’m currently working at Saclic Studio and TodayDins   
   
 
-- 🌱 I’m currently learning NextJS and Python  
+- 🌱 I’m currently improving my skills in NextJS and Python  
   
 
 - ❓ You want to build a SaaS or Mobile App, but you don't have a team ? Please contact US.  
